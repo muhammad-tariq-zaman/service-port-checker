@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+<rect width="1200" height="300" fill="#0f2a44"/>
+<rect width="1200" height="300" fill="none" stroke="#2dd4bf" stroke-width="6"/>
+<text x="60" y="140" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffffff">Service Port Checker</text>
+<text x="60" y="200" font-family="sans-serif" font-size="28" fill="#2dd4bf">IT Support &amp; Automation — Python, standard library only</text>
+<text x="60" y="250" font-family="sans-serif" font-size="22" fill="#94a3b8">Muhammad Tariq Zaman</text>
+</svg>
